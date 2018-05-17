@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ViewSample_517</string>
+    <string name="app_name">商品画面サンプル</string>
+    <string name="tv_msg">お名前を入力して下さい。</string>
 </resources>
